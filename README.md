@@ -1,2 +1,2 @@
-# Loja-dep-sito
+# Loja, depósito<br>
 Loja simples.
